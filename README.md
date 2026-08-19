@@ -78,7 +78,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prvthmpcypher/ai_interview_prep.git
+git clone https://github.com/poorvith-mp/ai_interview_prep.git
 cd ai_interview_prep
 ```
 
@@ -151,7 +151,7 @@ The system prompt injects the job role and rules (STAR method, code examples, ti
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to open a [GitHub Issue](https://github.com/prvthmpcypher/ai_interview_prep/issues) or submit a pull request.
+Feel free to open a [GitHub Issue](https://github.com/poorvith-mp/ai_interview_prep/issues) or submit a pull request.
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/my-feature`)
@@ -171,11 +171,11 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👤 Author
 
-<img src="https://github.com/prvthmpcypher.png" alt="prvthmpcypher" width="80" style="border-radius: 50%;"/>
+<img src="https://github.com/poorvith-mp.png" alt="poorvith-mp" width="80" style="border-radius: 50%;"/>
 
-**prvthmpcypher**
+**poorvith-mp**
 
-[![GitHub](https://img.shields.io/badge/GitHub-prvthmpcypher-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvthmpcypher)
+[![GitHub](https://img.shields.io/badge/GitHub-poorvith-mp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poorvith-mp)
 
 *Building cool things with AI, one local model at a time.*
 
